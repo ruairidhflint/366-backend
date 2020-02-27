@@ -10,7 +10,8 @@ exports.up = function(knex) {
     table
       .integer('dayOfYear')
       .notNullable()
-      .unsigned();
+      .unsigned()
+      .unique();
   });
 };
 
