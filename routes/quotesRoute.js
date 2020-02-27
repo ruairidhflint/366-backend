@@ -43,5 +43,4 @@ Router.post('/', async (req, res) => {
   }
 });
 
-module.exports = Router;
-ƒ;
+module.exports = Router;;
