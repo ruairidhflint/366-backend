@@ -31,5 +31,5 @@ async function postNewQuote(req, res) {
 
 module.exports = {
     postNewQuote,
-    getQuoteByDate
+    getQuoteByDate  
 }
