@@ -1,0 +1,27 @@
+{
+  "name": "366-backend",
+  "version": "1.0.0",
+  "description": "Daily Quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruairidhflint/366-backend.git"
+  },
+  "author": "Rory Flint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruairidhflint/366-backend/issues"
+  },
+  "homepage": "https://github.com/ruairidhflint/366-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.3",
+    "knex": "^0.20.10",
+    "pg": "^7.18.2",
+    "sqlite3": "^4.1.1"
+  }
+}
