@@ -6,7 +6,6 @@ exports.up = function(knex) {
       .notNullable()
       .unique();
     table.string('author').notNullable();
-    table.string('url').notNullable();
     table
       .integer('dayOfYear')
       .notNullable()
