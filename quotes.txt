@@ -1,0 +1,370 @@
+1 - “If one does not know to which port one is sailing, no wind is favorable.” Seneca
+2 - “A gem cannot be polished without friction, nor a man perfected without trials.” Seneca
+3 - “It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.” Seneca
+4 - “No man was ever wise by chance.” Seneca
+5 - “He is most powerful who has power over himself.” Seneca
+6 - “Be tolerant with others and strict with yourself.” – Marcus Aurelius
+7 - “It’s silly to try to escape other people’s faults. They are inescapable. Just try to escape your own.” – Marcus Aurelius
+8 - “Waste no more time arguing what a good man should be. Be one.” – Marcus Aurelius
+9 - “The impediment to action advances action. What stands in the way becomes the way.” – Marcus Aurelius
+10 - "A man’s worth is no greater than the worth of his ambitions." - Marcus Aurelius
+11 - “Think lightly of yourself and deeply of the world.” - Miyamoto Musashi
+12 - “Fixation is the way to death. Fluidity is the way to life.” - Miyamoto Musashi
+13 - "Respect Buddha and the gods without counting on their help" - Miyamoto Musashi
+14 - “There is more to life than increasing its speed.” Miyamoto Musashi
+15 - “I choose to live by choice, not by chance.” Miyamoto Musashi
+16 - "The higher we soar, the smaller we appear to those who cannot fly." - Friedrich Nietzsche
+17 - "No one can construct for you the bridge upon which precisely you must cross the stream of life, no one but you yourself alone." - Friedrich Nietzsche
+18 - "There is always some madness in love. But there is also always some reason in madness." - Friedrich Nietzsche
+19 - "He who has a why to live can bear almost any how." - Friedrich Nietzsche
+20 - "And those who were seen dancing were thought to be insane by those who couldn’t hear the music." - Friedrich Nietzsche
+21 - "A sedentary life is the real sin against the Holy Spirit. Only those thoughts that come by walking have any value." - Friedrich Nietzsche
+22 - "I am not what happened to me, I am what I choose to become." - Carl Jung
+23 - "You are what you do, not what you say you’ll do." - Carl Jung
+24 - "I shall not commit the fashionable stupidity of regarding everything I cannot explain as a fraud." - Carl Jung
+25 - "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes." - Carl Jung
+26 - “We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.” – Carl Jung
+27 - "Live as if you were living a second time, and as though you had acted wrongly the first time." - Viktor E. Frankl
+28 - “Life is never made unbearable by circumstances, but only by lack of meaning and purpose.” - Viktor E. Frankl
+29 - "Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake." - Viktor E. Frankl
+30 - "The last freedom is choosing your attitude." - Viktor E. Frankl
+31 - "When a man cannot find meaning, he numbs himself with pleasure." - Viktor E. Frankl
+32 - "Knowing is not enough. We must apply. Willing is not enough. We must do." - Bruce Lee
+33 - "Do not pray for an easy life, pray for the strength to endure a difficult one." – Bruce Lee
+34 - "A wise man can learn more from a foolish question than a fool can learn from a wise answer." - Bruce Lee
+35 - "Absorb what is useful, discard what is useless and add what is specifically your own." - Bruce Lee
+36 - "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." - Bruce Lee
+37 - "The successful warrior is the average man, with laser-like focus." - Bruce Lee
+38 - "Be happy, but never satisfied." - Bruce Lee
+39 - "Muddy water is best cleared by leaving it alone." - Alan Watts
+40 - "A scholar tries to learn something everyday; a student of Buddhism tries to unlearn something daily." - Alan Watts
+41 - "It’s better to have a short life that is full of what you like doing, than a long life spent in a miserable way." - Alan Watts
+42 - "Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way." - Alan Watts
+43 - "Man suffers only because he takes seriously what the Gods made for fun." - Alan Watts
+44 - "I have a theory that the truth is never told during the nine-to-five hours." - Hunter S. Thompson
+45 - "Weird behavior is natural in smart children, like curiosity is to a kitten." - Hunter S. Thompson
+46 - "Never turn your back on fear. It should always be in front of you, like a thing that might have to be killed." - Hunter S. Thompson
+47 - "The edge...there is no honest way to explain it because the only people who really know where it is are the ones who have gone over. - Hunter S. Thompson
+48 - "Morality is temporary, wisdom is permanent." - Hunter S. Thompson
+49 - “To go wrong in one’s own way is better than to go right in someone else’s.” - Fyodor Dostoevsky 
+50 - "This is my last message to you: in sorrow, seek happiness.” - Fyodor Dostoevsky 
+51 - “If you want to overcome the whole world, overcome yourself.” - Fyodor Dostoevsky 
+52 - “Lying to ourselves is more deeply ingrained than lying to others.” - Fyodor Dostoevsky 
+53 - “Man has it all in his hands, and it all slips through his fingers from sheer cowardice.” - Fyodor Dostoevsky 
+54 - “It’s the great mystery of human life that old grief passes gradually into quiet tender joy.” - Fyodor Dostoevsky 
+55 - “The degree of civilization in a society can be judged by entering its prisons.” - Fyodor Dostoevsky 
+56 - "When I let go of who I am, I become what I might be." - Lao Tzu
+57 - "Great acts are made up of small deeds." - Lao Tzu
+58 - "The snow goose need not bathe to make itself white. Neither need you do anything but be yourself." - Lao Tzu
+59 - "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures." - Lao Tzu
+60 - "When the best leader’s work is done the people say, ‘We did it ourselves.'" - Lao Tzu
+61 - "Those who know do not say. Those who say do not know." - Lao Tzu
+62 - "Nature does not hurry, yet everything is accomplished." - Lao Tzu
+63 - "Try not to become a man of success, but rather try to become a man of value." - Albert Einstein
+64 - "Great spirits have always encountered violent opposition from mediocre minds." - Albert Einstein
+65 - "All religions, arts and sciences are branches of the same tree." - Albert Einstein
+66 - "He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed." - Albert Einstein
+67 - "I have no special talent. I am only passionately curious." - Albert Einstein
+68 - "Life is like riding a bicycle. To keep your balance you must keep moving." - Albert Einstein
+69 - "Be yourself; everyone else is already taken." - Oscar Wilde
+70 - "We live in an age when unnecessary things are our only necessities." - Oscar Wilde
+71 - "To live is the rarest thing in the world. Most people exist, that is all." - Oscar Wilde
+72 - "We are all in the gutter, but some of us are looking at the stars." - Oscar Wilde
+73 - "Never love anyone who treats you like you’re ordinary." - Oscar Wilde
+74 - "Every saint has a past, and every sinner has a future." - Oscar Wilde
+75 - "Anybody can sympathize with the sufferings of a friend, but it requires a very fine nature to sympathize with a friend’s success." - Oscar Wilde
+76 - "Experience is merely the name men gave to their mistakes." - Oscar Wilde
+77 - "He who is not contented with what he has, would not be contented with what he would like to have." - Socrates
+78 - "Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." - Socrates
+79 - "When the debate is lost, slander becomes the tool of the loser." - Socrates
+80 - "The easiest and noblest way is not to be crushing others, but to be improving yourselves." - Socrates
+81 - "The only true wisdom is in knowing you know nothing." - Socrates
+82 - "It is better to change an opinion than to persist in a wrong one." - Socrates
+83 - "The unexamined life is not worth living." - Socrates
+84 - "Think not those faithful who praise all thy words and actions; but those who kindly reprove thy faults." - Socrates
+85 - "It is the mark of an educated mind to be able to entertain a thought without accepting it." - Aristotle
+86 - "I count him braver who overcomes his desires than him who conquers his enemies, for the hardest victory is over self." - Aristotle
+87 - "The high-minded man must care more for the truth than for what people think." - Aristotle
+88 - "Quality is not an act, it is a habit." - Aristotle
+89 - "At his best, man is the noblest of all animals; separated from law and justice he is the worst." - Aristotle
+90 - "Criticism is something we can avoid easily by saying nothing, doing nothing, and being nothing." - Aristotle
+91 - "The ideal man bears the accidents of life with dignity and grace, making the best of circumstances." - Aristotle
+92 - "Years of love have been forgotten, in the hatred of a minute." - Edgar Allan Poe 
+93 - "Never to suffer would never to have been blessed. - Edgar Allan Poe 
+94 - "Beauty of whatever kind, in its supreme development, invariably excites the sensitive soul to tears." - Edgar Allan Poe 
+95 - "Those who dream by day are cognizant of many things which escape those who dream only by night." - Edgar Allan Poe 
+96 - "If others would think as hard as I did, then they would get similar results." - Sir Isaac Newton
+97 - "We build too many walls and not enough bridges." - Sir Isaac Newton
+98 - "Live your life as an Exclamation rather than an Explanation" - Sir Isaac Newton
+99 - "Tact is the knack of making a point without making an enemy." - Sir Isaac Newton
+100 - "If I have seen further it is by standing on the shoulders of Giants." - Sir Isaac Newton
+101 - "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." - Ernest Hemingway	
+102 - "The world breaks everyone, and afterward, some are strong at the broken places." - Ernest Hemingway
+103 - "Every man’s life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another." - Ernest Hemingway
+104 - "Never confuse movement with action." - Ernest Hemingway
+105 - "The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too." - Ernest Hemingway
+106 - "Courage is grace under pressure." - Ernest Hemingway
+107 - “Many receive advice, only the wise profit from it.” - Harper Lee
+108 - “Normal is not something to aspire to, it’s something to get away from.” - Jodie Foster
+109 - “Change your life today. Don’t gamble on the future, act now, without delay.” - Simone de Beauvoir
+110 - “Learn from the mistakes of others. You can’t live long enough to make them all yourself.” - Eleanor Roosevelt
+111 - “In order to be irreplaceable one must always be different.” - Coco Chanel
+112 - “If you don’t like the road you’re walking, start paving another one.” - Dolly Parton
+113 - “The most difficult thing is the decision to act, the rest is merely tenacity.” - Amelia Earhart
+114 - “Knowing what must be done does away with fear.” - Rosa Parks
+115 - “When the whole world is silent, even one voice becomes powerful.” - Malala Yousafzai
+116 - “Optimism is the faith that leads to achievement.” - Helen Keller
+117 - “Done is better than perfect.” - Sheryl Sandberg
+118 - “The question isn’t who is going to let me; it’s who is going to stop me.” - Ayn Rand
+119 - "Great minds discuss ideas; average minds discuss events; small minds discuss people." - Eleanor Roosevelt
+120 - "It is better to light a candle than curse the darkness." - Eleanor Roosevelt
+121 - "You wouldn’t worry so much about what others think of you if you realized how seldom they do." - Eleanor Roosevelt
+122 - "No one can make you feel inferior without your consent." - Eleanor Roosevelt
+123 - "A stumbling-block to the pessimist is a stepping-stone to the optimist." - Eleanor Roosevelt
+124 - "Learn what is to be taken seriously and laugh at the rest." – Hermann Hesse
+125 - "Happiness is a how, not a what: a talent, not an object." – Hermann Hesse
+126 - "If man has nothing to eat, fasting is the most intelligent thing he can do." – Hermann Hesse
+127 - "All men are prepared to accomplish the incredible if their ideals are threatened." – Hermann Hesse
+128 - “I don't pretend we have all the answers. But the questions are certainly worth thinking about.” -  Arthur C. Clarke
+129 - “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.” - Arthur C. Clarke
+130 - “I don't believe in astrology; I'm a Sagittarius and we're skeptical.” - Arthur C. Clarke
+131 - Never confuse a single defeat with a final defeat. - F. Scott Fitzgerald
+132 - 	 - F. Scott Fitzgerald
+133 - Show me a hero, and I’ll write you a tragedy. - F. Scott Fitzgerald
+134 - I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life. - F. Scott Fitzgerald
+135 - To improve is to change, so to be perfect is to have changed often. - Winston Churchill
+136 - I never ‘worry’ about action, but only about inaction. - Winston Churchill
+137 - Success consists of going from failure to failure without loss of enthusiasm. - Winston Churchill
+138 - For myself I am an optimist — it does not seem to be much use being anything else. - Winston Churchill
+139 - I like things to happen, and if they don’t happen I like to make them happen. - Winston Churchill
+140 - A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. - Winston Churchill
+141 - Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. - Winston Churchill
+142 - "Don’t count the days; make the days count." - Muhammad Ali
+143 - "A man who views the world the same at 50 as he did at 20 has wasted 30 years of his life.” - Muhammad Ali
+144 - "I am the greatest, I said that even before I knew I was." - Muhammad Ali
+145 - "Service to others is the rent you pay for your room here on earth." - Muhammad Ali
+146 - “If you do what you’ve always done, you’ll get what you’ve always gotten.” – Tony Robbins
+147 - “Most people fail in life because they major in minor things.” – Tony Robbins
+148 - “The quality of your life is the quality of your relationships.” – Tony Robbins
+149 - Never allow someone to be your priority while allowing yourself to be their option. - Mark Twain
+150 - If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man. - Mark Twain
+151 - If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed. - Mark Twain
+152 - Everyone is a moon, and has a dark side which he never shows to anybody. - Mark Twain
+153 - The two most important days in your life are the day you are born and the day you find out why. - Mark Twain
+154 - Never argue with stupid people, they will drag you down to their level and then beat you with experience. - Mark Twain
+155 - Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. - Mark Twain
+156 - “For small creatures such as we the vastness is bearable only through love.” - Carl Sagan
+157 - “Desire is a contract that you make with yourself to be unhappy until you get what you want.” - Naval Ravikant
+158 - “The people who succeed are irrationally passionate about something.” - Naval Ravikant
+159 - “The secret to public speaking is to speak as if you were alone.” - Naval Ravikant
+160 - “Wealth creation is an evolutionarily recent positive-sum game. Status is an old zero-sum game. - Naval Ravikant
+161 - “A rational person can find peace by cultivating indifference to things outside of their control.” - Naval Ravikant
+162 - Nearly all men can stand adversity, but if you want to test a man’s character, give him power. - Abraham Lincoln
+163 - Be sure you put your feet in the right place, then stand firm. - Abraham Lincoln
+164 - Character is like a tree and reputation its shadow. The shadow is what we think it is and the tree is the real thing. - Abraham Lincoln
+165 - The best way to predict your future is to create it. - Abraham Lincoln
+166 - My great concern is not whether you have failed, but whether you are content with your failure. - Abraham Lincoln
+167 - Things may come to those who wait, but only the things left by those who hustle. - Abraham Lincoln
+168 - Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
+169 - Many people die at twenty five and aren’t buried until they are seventy five. - Benjamin Franklin
+170 - We are all born ignorant, but one must work hard to remain stupid. - Benjamin Franklin
+171 - A slip of the foot you may soon recover, but a slip of the tongue you may never get over. - Benjamin Franklin
+172 - While we may not be able to control all that happens to us, we can control what happens inside us. - Benjamin Franklin
+173 - There are two ways to increase your wealth. Increase your means or decrease your wants. The best is to do both at the same time. - Benjamin Franklin
+174 - An ounce of prevention is worth a pound of cure. - Benjamin Franklin
+175 - The first principle is that you must not fool yourself and you are the easiest person to fool. - Richard P. Feynman
+176 - Do not read so much, look about you and think of what you see there. - Richard P. Feynman
+177 - I never pay attention to anything by "experts". I calculate everything myself. - Richard P. Feynman
+178 - Someone who says “I am busy” is either declaring incompetence (and lack of control of his life) or trying to get rid of you. - Nassim Nicholas Taleb
+179 - You are rich if and only if money you refuse tastes better than money you accept. - Nassim Nicholas Taleb
+180 - Asking science to explain life and vital matters is equivalent to asking a grammarian to explain poetry. - Nassim Nicholas Taleb
+181 - The difference between slaves in Roman and Ottoman days and today’s employees is that slaves did not need to flatter their boss. - Nassim Nicholas Taleb
+182 - A good maxim allows you to have the last word without even starting a conversation. - Nassim Nicholas Taleb
+183 - To become a philosopher, start by walking very slowly. - Nassim Nicholas Taleb
+184 - If God did not exist, it would be necessary to invent him. - Voltaire
+185 - Don’t think money does everything or you are going to end up doing everything for money. - Voltaire
+186 - Every man is guilty of all the good he did not do. - Voltaire
+187 - The more often a stupidity is repeated, the more it gets the appearance of wisdom. - Voltaire
+188 - A man, as a general rule, owes very little to what he is born with — a man is what he makes of himself. - Alexander Graham Bell
+189 - The achievement of one goal should be the starting point of another. - Alexander Graham Bell
+190 - Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to focus. - Alexander Graham Bell
+191 - Impossible is a word to be found only in the dictionary of fools. - Napoleon Bonaparte
+192 - Take time to deliberate, but when the time for action has arrived, stop thinking and go. - Napoleon Bonaparte
+193 - The fool has one great advantage over a man of sense; he is always satisfied with himself - Napoleon Bonaparte
+194 - Until you spread your wings, you’ll have no idea how far you can fly. - Napoleon Bonaparte
+195 - If you want a thing done well, do it yourself. - Napoleon Bonaparte
+196 - Education is our passport to the future, for tomorrow belongs to the people who prepare for it today. - Malcolm X
+197 - A man who stands for nothing will fall for anything. - Malcolm X
+198 - A wise man can play the part of a clown, but a clown can’t play the part of a wise man. - Malcolm X
+199 - Children have a lesson adults should learn, to not be ashamed of failing, but to get up and try again. - Malcolm X
+200 - Stumbling is not falling. - Malcolm X
+201 - Wise men speak because they have something to say; fools because they have to say something. - Plato
+202 - We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. - Plato
+203 - The price good men pay for indifference to public affairs is to be ruled by evil men. - Plato
+204 - Never discourage anyone who continually makes progress, no matter how slow. - Plato
+205 - Good people do not need laws to tell them to act responsibly, while bad people will find a way around the laws. - Plato
+206 - Honesty is the first chapter of the book wisdom - Thomas Jefferson
+207 - I’m a greater believer in luck, and I find the harder I work the more I have of it. - Thomas Jefferson
+208 - The man who reads nothing at all is better educated than the man who reads nothing but newspapers. - Thomas Jefferson
+209 - I like the dreams of the future better than the history of the past. - Thomas Jefferson
+210 - To penetrate and dissipate these clouds of darkness, the general mind must be strengthened by education. - Thomas Jefferson
+211 - Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson
+212 - I attribute my success to this:—I never gave or took an excuse. - Florence Nightingale
+213 - Were there none who were discontented with what they have, the world would never reach anything better. - Florence Nightingale
+214 - Live life when you have it. Life is a splendid gift – there is nothing small about it. - Florence Nightingale
+215 - Real men despise battle, but will never run from it. - George Washington
+216 - Be not glad at the misfortune of another, though he may be your enemy. - George Washington
+217 - I’ll die on my feet before I’ll live on my knees! - George Washington
+218 - It is better to offer no excuse than a bad one. - George Washington
+219 - If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter. - George Washington
+220 - Don’t ever stop. Keep going. If you want a taste of freedom, keep going. - Susan Brownell Anthony
+221 - And I prayed to God to make me strong and able to fight, and that’s what I’ve always prayed for ever since. - Susan Brownell Anthony
+222 - The true republic: men, their rights, and nothing more; women, their rights, and nothing less. - Susan Brownell Anthony
+223 - No man is good enough to govern any woman without her consent. - Susan Brownell Anthony
+224 - Each person must live their life as a model for others. - Rosa Parks
+225 - I would like to be remembered as a person who wanted to be free… so other people would be also free. - Rosa Parks
+226 - You must never be fearful about what you are doing when it is right. - Rosa Parks
+227 - Intelligence is the ability to adapt to change. - Stephen Hawking
+228 - I am just a child who has never grown up. I still keep asking these ‘how’ and ‘why’ questions. Occasionally, I find an answer. - Stephen Hawking
+229 - Keeping an active mind has been vital to my survival, as has been maintaining a sense of humor. - Stephen Hawking
+230 - If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return. - Deepak Chopra
+231 - Modern medicine, for all its advances, knows less than 10 percent of what your body knows instinctively. - Deepak Chopra
+232 - Don’t try to steer the river. - Deepak Chopra
+233 - There is just no getting around that turning bad things into good things is up to you. - Deepak Chopra
+234 - In the midst of movement and chaos, keep stillness inside of you. - Deepak Chopra
+235 - All our dreams can come true, if we have the courage to pursue them. - Walt Disney
+236 - That’s the real trouble with the world. Too many people grow up. - Walt Disney
+237 - The way to get started is to quit talking and begin doing. - Walt Disney
+238 - Why worry? If you’ve done the very best you can, then worrying won’t make it any better. - Walt Disney
+239 - First, think. Second, dream. Third, believe. And finally, dare. - Walt Disney
+240 - Get a good idea and stay with it. Dog it, and work at it until it’s done right. - Walt Disney
+241 - Life is either a daring adventure or nothing. - Helen Keller
+242 - Avoiding danger is no safer in the long run than outright exposure. The fearful are caught as often as the bold. - Helen Keller
+243 - Never bend your head. Hold it high. Look the world straight in the eye. - Helen Keller
+244 - While they were saying among themselves it cannot be done, it was done. - Helen Keller
+245 - Live life as though nobody is watching, and express yourself as though everyone is listening. - Nelson Mandela 
+246 - One of the most difficult things is not to change society — but to change yourself. - Nelson Mandela 
+247 - Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do. - Nelson Mandela 
+248 - A winner is a dreamer who never gives up. - Nelson Mandela 
+249 - Do not judge me by my successes, judge me by how many times I fell down and got back up again. - Nelson Mandela 
+250 - It always seems impossible until it’s done. - Nelson Mandela 
+251 - I never lose. I either win or learn. - Nelson Mandela 
+252 - I am the master of my fate: I am the captain of my soul. - Nelson Mandela 
+253 - A man is but a product of his thoughts. What he thinks he becomes. - Mahatma Ghandi 
+254 - I will not let anyone walk through my mind with their dirty feet. - Mahatma Ghandi 
+255 - Glory lies in the attempt to reach one’s goal and not in reaching it. - Mahatma Ghandi 
+256 - Strength does not come from physical capacity. It comes from an indomitable will. - Mahatma Ghandi  
+257 - You may never know what results come of your actions, but if you do nothing, there will be no results. - Mahatma Ghandi 
+258 - Happiness is not something ready made. It comes from your own actions. - Dalai Lama
+259 - To conquer oneself is a greater victory than to conquer thousands in a battle. - Dalai Lama
+260 - If you think you are too small to make a difference, try sleeping with a mosquito. - Dalai Lama
+261 - A disciplined mind leads to happiness, and an undisciplined mind leads to suffering. - Dalai Lama
+262 -  “Your time is limited, so don’t waste it living someone else’s life.” ― Steve Jobs
+263 - “Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.” ― Steve Jobs
+264 - “Stay hungry. Stay foolish.” ― Steve Jobs
+265 - “The people who are crazy enough to think they can change the world are the ones who do.” - Steve Jobs
+266 - “Quality is more important than quantity. One home run is much better than two doubles.” - Steve Jobs
+267 - "When your only tool is a hammer, you tend to look at every problem as a nail" -Abraham Maslov
+268 - "How lucky I am to have something that makes saying goodbye so hard" -Winnie The Pooh
+269 - "Imagination is the only weapon in the war against reality" - Lewis Carroll
+270 - Don't cry because it's over. Smile because it happened. -Dr. Seuss
+271 - I only drink champagne on two occasions, when I am in love, and when I am not. - Coco Channel
+272 - “Whether you think you can or whether you think you can’t, you’re right.” -Henry Ford
+273 - "Raise your words, not your voice. It is rain that grows flowers not thunder" - Rumi
+274 - "Everything in moderation, including moderation. " Oscar Wilde.
+275 - “Step aggressively towards your fear – that is the step into bravery.” - Jocko Willink
+276 - So to me, it is not about nature or nurture: It’s about choice” - Jocko Willink
+277 - “Suffering is a test. That’s all it is. Suffering is the true test of life.” David Goggins
+278 - “Life is one big tug of war between mediocrity and trying to find your best self.” David Goggins
+279 - “I don’t stop when I’m tired. I stop when I’m done.” David Goggins
+280 - “Stop making excuses. Stop being a victim. Take personal responsibility.” David Goggins
+281 - “It is impossible for a man to learn what he thinks he already knows.” – Epictetus
+282 - “Circumstances don’t make the man, they only reveal him to himself.” – Epictetus
+283 - “In prosperity it is very easy to find a friend; but in adversity it is the most difficult of all things.” – Epictetus
+284 - “No man is free who is not master of himself.” – Epictetus
+285 - How can I begin anything new with all of yesterday in me? - Leonard Cohen
+286 - Act the way you’d like to be and soon you’ll be the way you act. - Leonard Cohen
+287 - A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do. - Bob Dylan
+288 - People seldom do what they believe in. They do what is convenient, then repent. - Bob Dylan
+289 - Some people feel the rain. Others just get wet. - Bob Dylan
+290 - It frightens me, the awful truth, of how sweet life can be... - Bob Dylan
+291 - Don’t gain the world and lose your soul, wisdom is better than silver or gold. - Bob Marley
+292 - Perhaps one did not want to be loved so much as to be understood. - George Orwell
+293 - Men can only be happy when they do not assume that the object of life is happiness. - George Orwell
+294 - In general, the greater the understanding, the greater the delusion; the more intelligent, the less sane. - George Orwell
+295 - Before you embark on a journey of revenge, dig two graves. - Confucius
+296 - If you make a mistake and do not correct it, this is called a mistake. - Confucius
+297 - The man who moves a mountain begins by carrying away small stones. - Confucius
+298 - He who knows all the answers has not been asked all the questions. - Confucius
+299 - Don’t complain about the snow on your neighbor’s roof when your own doorstep is unclean. - Confucius
+300 - Real knowledge is to know the extent of one’s ignorance. - Confucius
+301 - “Set your house in perfect order before you criticize the world.” Jordan B. Peterson
+302 - “Work as hard as you possibly can on at least one thing and see what happens.” Jordan B. Peterson
+303 - “The purpose of life is finding the largest burden that you can bear and bearing it.” Jordan B. Peterson
+304 - Out of your vulnerabilities will come your strength. Sigmund Freud
+305 - Civilization began the first time an angry person cast a word instead of a rock. Sigmund Freud
+306 - Always go too far, because that’s where you’ll find the truth. - Albert Camus
+307 - When the soul suffers too much, it develops a taste for misfortune. - Albert Camus
+308 - In the depth of winter, I finally learned that within me there lay an invincible summer. - Albert Camus
+309 - The need to be right – the sign of a vulgar mind. - Albert Camus
+310 - It is nothing to die. It is frightful not to live. - Victor Hugo
+311 - An intelligent hell would be better than a stupid paradise. - Victor Hugo
+312 - Even the darkest night will end and the sun will rise. - Victor Hugo
+313 - Change your opinions, keep to your principles; change your leaves, keep intact your roots. - Victor Hugo
+314 - There are two cardinal sins from which all others spring: impatience and laziness. - Franz Kafka
+315 - I would rather sit on a pumpkin, and have it all to myself, than be crowded on a velvet cushion. - Henry David Thoreau
+316 - Rather than love, than money, than fame, give me truth. - Henry David Thoreau
+317 - Go confidently in the direction of your dreams! Live the life you’ve imagined. - Henry David Thoreau
+318 - The question is not what you look at, but what you see. - Henry David Thoreau
+319 - The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
+320 - What you do speaks so loudly that I cannot hear what you say. - Ralph Waldo Emerson
+321 - For every minute you are angry you lose sixty seconds of happiness. - Ralph Waldo Emerson
+322 - Most of the shadows of this life are caused by standing in one’s own sunshine. - Ralph Waldo Emerson
+323 - Happiness is a perfume you cannot pour on others without getting some on yourself. - Ralph Waldo Emerson
+324 - "Another flaw in the human character is that everybody wants to build and nobody wants to do maintenance.” —Kurt Vonnegut
+325 - Dead people receive more flowers than the living ones because regret is stronger than gratitude. - Anne Frank
+326 - I must uphold my ideals, for perhaps the time will come when I shall be able to carry them out. - Anne Frank
+327 - It is possible for ordinary people to choose to be extraordinary. - Elon Musk
+328 - Life is too short for long-term grudges. - Elon Musk
+329 - “We should look for someone to eat and drink with before looking for something to eat and drink.” – Epicurus
+330 - He who is not satisfied with a little, is satisfied with nothing.”- Epicurus
+331 - The greater the difficulty, the more the glory in surmounting it. – Epicurus
+332 - “What we fear doing most is usually what we most need to do.” – Ralph Waldo Emerson 
+333 - “Income seldom exceeds personal development.” ― Jim Rohn
+334 - “If you change the way you look at things, the things you look at change”. – Wayne Dyer
+335 - “If you want to be a leader who attracts quality people, the key is to become a person of quality yourself.” – Jim Rohn
+336 - “One secret of success in life is for a man to be ready for his opportunity when it comes.” – Benjamin Disraeli
+337 - “We are not creatures of circumstance; we are creators of circumstance.” – Benjamin Disraeli
+338 - “Never complain and never explain.” – Benjamin Disraeli
+339 - “Nature has given us two ears but only one mouth.” – Benjamin Disraeli
+340 - “Travel and tell no one, live a true love story and tell no one, live happily and tell no one, people ruin beautiful things.” - Khalil Gibran
+341 - It it possible to commit no mistakes and still lose. That is not weakness, that is life. - Captain Jean-Luc Picard
+342 - “Don’t live the same year 75 times and call it a life.” — Robin Sharma
+343 - “There is no way to happiness. Happiness is the way.” — Thich Nhat Hanh
+344 - “Instead of wondering when your next vacation is, maybe you should set up a life you don’t need to escape from.” — Seth Godin
+345 - I would rather die of passion than of boredom. -- Vincent van Gogh
+346 - What we achieve inwardly will change outer reality. —Plutarch
+347 - “Failure is a prerequisite for great success. If you want to succeed faster, double your rate of failure.” – Brian Tracy
+348 - “You’re only here for a short visit. Don’t hurry, don’t worry. And be sure to smell the flowers along the way.” – Walter Hagen
+349 - “Whatever the mind of man can conceive and believe it can achieve.” – Napoleon Hill
+350 - “Life isn’t about waiting for the storm to pass, it’s about learning to dance in the rain.” – Vivian Greene
+351 - “Some people want it to happen, some wish it would happen, others make it happen.” – Michael Jordan
+352 - "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -James Cameron
+353 - "You only live once, but if you do it right, once is enough." -Mae West
+354 - "Life is ours to be spent, not to be saved." -D. H. Lawrence
+355 - "In three words I can sum up everything I've learned about life: it goes on." -Robert Frost
+356 - "The secret of success is to do the common thing uncommonly well." -John D. Rockefeller Jr.
+357 - "It is better to fail in originality than to succeed in imitation." -Herman Melville
+358 - You take your life in your own hands, and what happens? A terrible thing, no one to blame. –Erica Jong
+359 - There are no traffic jams along the extra mile. –Roger Staubach
+360 - “A mind that is stretched by a new experience can never go back to its old dimensions.” — Oliver Wendell Holmes
+361 - Intelligence without ambition is a bird without wings. —Salvador Dali
+362 -  I can’t go back to yesterday because I was a different person then. —Lewis Carroll
+363 -  Those who don’t believe in magic will never find it. —Roald Dahl
+364 - Failure is the condiment that gives success its flavor. —Truman Capote
+365 - If you hit the target every time, it’s too near or too big. —Tom Hirshfield
+366 - “The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools.”- Thucydides
+
+
+
+
