@@ -31,7 +31,7 @@ async function postNewQuote(req, res) {
   try {
     const newQuote = await helpers.addQuote(req.body);
     if (newQuote) {
-      res.status(200).json({ message: 'Success', newQuote });
+      res.status(200).json({ message: 'Success', length: newQuote.length, newQuote });
     } else {
       res
         .status(400)
