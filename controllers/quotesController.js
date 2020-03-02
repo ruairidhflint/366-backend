@@ -4,7 +4,7 @@ async function getAllQuotes(req, res) {
   try {
     const quotes = await helpers.getAllQuotes();
     if (quotes) {
-      res.status(200).json({ length: newQuote.length, quotes });
+      res.status(200).json({ length: quotes.length, quotes });
     } else {
       res.status(404).json({ message: 'No quotes to display' });
     }
