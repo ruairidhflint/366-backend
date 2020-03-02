@@ -1,17 +1,17 @@
 const helpers = require('../helpers/quotesHelpers');
 
 async function getAllQuotes(req, res) {
-    try {
-      const quotes = await helpers.getAllQuotes();
-      if (quotes) {
-        res.status(200).json(quotes);
-      } else {
-        res.status(404).json({ message: 'No quotes to display' });
-      }
-    } catch (error) {
-      res.status(500).json({ error });
+  try {
+    const quotes = await helpers.getAllQuotes();
+    if (quotes) {
+      res.status(200).json({ length: newQuote.length, quotes });
+    } else {
+      res.status(404).json({ message: 'No quotes to display' });
     }
+  } catch (error) {
+    res.status(500).json({ error });
   }
+}
 
 async function getQuoteByDate(req, res) {
   const { date } = req.params;
@@ -31,7 +31,7 @@ async function postNewQuote(req, res) {
   try {
     const newQuote = await helpers.addQuote(req.body);
     if (newQuote) {
-      res.status(200).json({ message: 'Success', length: newQuote.length, newQuote });
+      res.status(200).json({ message: 'Success', newQuote });
     } else {
       res
         .status(400)
@@ -43,7 +43,7 @@ async function postNewQuote(req, res) {
 }
 
 module.exports = {
-    getAllQuotes,
-    postNewQuote,
-    getQuoteByDate  
-}
+  getAllQuotes,
+  postNewQuote,
+  getQuoteByDate,
+};
