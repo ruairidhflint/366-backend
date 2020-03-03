@@ -42,8 +42,29 @@ async function postNewQuote(req, res) {
   }
 }
 
+async function editQuote(req, res) {
+  const { id } = req.params;
+  const update = {
+    quote: req.body.quote,
+    author: req.body.author,
+  };
+  try {
+    const editedQupte = await helpers.editQuote(id, update);
+    if (editedQupte) {
+      res.status(200).json({ message: 'Success', editedQupte });
+    } else {
+      res
+        .status(400)
+        .json({ message: 'Something went wrong! Please try again' });
+    }
+  } catch (error) {
+    res.status(500).json({ error });
+  }
+}
+
 module.exports = {
   getAllQuotes,
   postNewQuote,
   getQuoteByDate,
+  editQuote
 };

@@ -14,8 +14,15 @@ function addQuote(quote) {
   return db('quotes').insert(quote, 'id');
 }
 
-module.exports = {
-    getAllQuotes,
-    getDailyQuote,
-    addQuote
+function editQuote(id, update) {
+  return db('quotes')
+    .where({ id })
+    .update(update);
 }
+
+module.exports = {
+  getAllQuotes,
+  getDailyQuote,
+  addQuote,
+  editQuote
+};
