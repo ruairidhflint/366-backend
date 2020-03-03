@@ -3,9 +3,9 @@ const controller = require('../controllers/quotesController');
 
 const Router = express.Router();
 
-Router.get('/', controller.getAllQuotes);
 Router.get('/:date', controller.getQuoteByDate);
 
+// Router.get('/', controller.getAllQuotes);
 // Router.post('/', controller.postNewQuote);
 // Router.put('/:id', controller.editQuote);
 
