@@ -3,9 +3,6 @@
 const db = require('../database/dbConfig');
 const model = require('../helpers/quotesHelpers');
 
-const request = require('supertest');
-const server = require('../server');
-
 beforeAll(async () => {
   await db('quotes').truncate();
 });
@@ -52,8 +49,3 @@ describe('quotes model', () => {
   });
 });
 
-/* Tests required ...
-3.) Edit quote
-4.) Check quote has been edited
-5.) Retrieve a quote on a specific day
-*/
