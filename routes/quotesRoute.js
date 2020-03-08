@@ -6,7 +6,7 @@ const Router = express.Router();
 Router.get('/:date', controller.getQuoteByDate);
 
 // Router.get('/', controller.getAllQuotes);
-// Router.post('/', controller.postNewQuote);
+Router.post('/', controller.postNewQuote);
 // Router.put('/:id', controller.editQuote);
 
 module.exports = Router;;
