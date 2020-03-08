@@ -27,7 +27,6 @@ describe('quotes model', () => {
 
   describe('getDailyQuote()', () => {
     it('Should get quote labelled as January 1st', async () => {
-
       const quote = await model.getDailyQuote(1);
 
       expect(quote.quote).toBe('This is a test quote');
@@ -35,15 +34,26 @@ describe('quotes model', () => {
       expect(quote.dayOfYear).toBe(1);
     });
   });
+
+  describe('editQuote()', () => {
+    it('Should edit quote to change Date to 1st Feb', async () => {
+      await model.editQuote(1, {
+        quote: 'This is a test quote',
+        author: 'Ruairidh Flint',
+        dayOfYear: 32,
+      });
+
+      const quote = await model.getDailyQuote(32);
+
+      expect(quote.quote).toBe('This is a test quote');
+      expect(quote.author).toBe('Ruairidh Flint');
+      expect(quote.dayOfYear).toBe(32);
+    });
+  });
 });
 
-
 /* Tests required ...
-
-1.) Post new quote
-2.) Check quote exists and is correct
 3.) Edit quote
 4.) Check quote has been edited
 5.) Retrieve a quote on a specific day
-
 */
