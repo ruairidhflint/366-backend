@@ -6,7 +6,7 @@ const model = require('../helpers/quotesHelpers');
 const request = require('supertest');
 const server = require('../server');
 
-beforeEach(async () => {
+beforeAll(async () => {
   await db('quotes').truncate();
 });
 
@@ -24,4 +24,26 @@ describe('quotes model', () => {
       expect(quotes).toHaveLength(1);
     });
   });
+
+  describe('getDailyQuote()', () => {
+    it('Should get quote labelled as January 1st', async () => {
+
+      const quote = await model.getDailyQuote(1);
+
+      expect(quote.quote).toBe('This is a test quote');
+      expect(quote.author).toBe('Ruairidh Flint');
+      expect(quote.dayOfYear).toBe(1);
+    });
+  });
 });
+
+
+/* Tests required ...
+
+1.) Post new quote
+2.) Check quote exists and is correct
+3.) Edit quote
+4.) Check quote has been edited
+5.) Retrieve a quote on a specific day
+
+*/
